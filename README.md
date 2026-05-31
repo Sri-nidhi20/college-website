@@ -29,7 +29,7 @@ This was my first ever web development project, built in my 1st semester of BCA.
 
 ## Live Demo
 
-https://github.com/Sr-nidhi20/college-website
+https://github.com/Sri-nidhi20/college-website
 
 ## What I Learned
 
