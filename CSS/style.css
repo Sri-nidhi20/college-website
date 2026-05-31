@@ -1,0 +1,147 @@
+*{
+   padding:0px;
+   margin:0px;
+}
+html, body{
+     font-family:Roboto, sans-serif, ariel;
+     color:#242424
+}
+.container{
+    width:1200px;
+    margin:0px auto;
+}
+. Main-section{
+     width:100%;
+     float:left;
+     padding:50px 0px 40px 0px;
+}
+.heading{
+    font-size:22px;
+    font-weight:500;
+    border-bottom:1px solid #ff5722;
+    color:#ff5722;
+}
+.logo{
+   width:100%;
+}
+nav{
+    width:100%;
+    float:left;
+    background:#ff5722;
+    padding:15px 0px;
+}
+nav a{
+    color:#fff;
+    text-decoration:none;
+    font-size:17px;
+    border-right:1px solid #ffc3c3;
+    padding:2px 20px;
+}
+.slider img{
+    width:100%;
+}
+
+.event ul li{
+    margin-bottom:20px;
+    width:100%;
+    float:left;
+}
+.collage img{
+     width:100%;
+}
+.about-us img{
+    width:24%;
+    float:left;
+}
+.about-us  div{
+    width:70%;
+    margin-left:20px;
+    float:left;
+    line-height:35px;
+}
+.about  img{
+    width:24%;
+    float:right;
+}
+.about div{
+    width:70%;
+    margin-left:20px;
+    float:left;
+    line-height:35px;
+}
+.testimonial{
+    width:380px;
+    float:left;
+    marigin-right:10px;
+    padding:50px 0px 40px 0px;
+    width:100%;
+}
+.testimonial-text{
+    background:#f0f3fa;
+    padding:20px;
+    line-height:20px;
+    border-radius:10px;
+}
+.testimonial-detail{
+    float:left;
+    margin-top:10px;
+}
+.testimonial-img{
+    float:left;
+}
+.testimonial-img img{
+    border-radius:50%;
+}
+.testimonial-name{
+    margin-left:10px;
+    float:left;
+    
+}
+.testimonial-name h5{
+    font-size:18px;
+    margin-top:8px;
+}
+.gallery img{
+    width:24%;
+}
+.placements div{
+    width:100%;
+    float:left;
+    padding:50px 0px 40px 0px;
+}
+.placements img{
+    border:1px solid #dfdfdf;
+}
+.footer{
+    background:#23395d;
+    padding:70px 0px;
+    width:100%;
+    float:left;
+}
+.footer-sect{
+    width:33%;
+    color:#00FFEF;
+    float:left;
+}
+.footer-sect h1{
+    color:#00b2ff;
+}
+.footer-sect p{
+    color:#fff;
+    line-height:22px;
+    padding:0px 30px 20px 0px;
+}
+.footer-menu li{
+    width:50%;
+    float:left;
+    margin-bottom:10px;
+}
+.footer-menu li a{
+    color:#fff;
+    text-decoration:none;
+}
+.footer-contact li{
+    margin-bottom:15px;
+    list-style:none;
+    color:#fff;
+}
